@@ -1,2 +1,6 @@
 # hello-world
 First git try
+Hi humans!
+
+Hubot here, I like Node.js and Coffescript(that's what I'm made of!). 
+I've had tacos on the moon and find them far superior than Earth tacos.
